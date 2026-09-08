@@ -1,6 +1,6 @@
 ## สวัสดีครับ 👋
 
-ผมพนธ์ ดูแลระบบเซิร์ฟเวอร์และเน็ตเวิร์กอยู่ที่ **PTNK** (ProTech Network Keepers)
+ผมปอดูแลระบบเซิร์ฟเวอร์และเน็ตเวิร์กอยู่ที่ **PTNK** (ProTech Network Keepers)
 ให้บริการ VPS, Dedicated Server และ Colocation ในไทย
 
 🌐 [ptnk.in.th](https://ptnk.in.th)
