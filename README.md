@@ -18,5 +18,3 @@
 ### ติดต่อ
 
 📧 panatron.n@gmail.com
-
-![](https://github-readme-stats.vercel.app/api?username=porpyna&show_icons=true&theme=dark&hide_border=true)
