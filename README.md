@@ -1,16 +1,20 @@
-## Hi there 👋
+## สวัสดีครับ 👋
 
-<!--
-**porpyna/porpyna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ผมพนธ์ ดูแลระบบเซิร์ฟเวอร์และเน็ตเวิร์กอยู่ที่ **PTNK** (ProTech Network Keepers)
+ให้บริการ VPS, Dedicated Server และ Colocation ในไทย
 
-Here are some ideas to get you started:
+🌐 [ptnk.in.th](https://ptnk.in.th)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ทำอะไรอยู่
+
+- ดูแล infrastructure — Proxmox VE, Windows Server, BGP, network ในตู้ colo
+- เขียนเว็บและระบบหลังบ้านสำหรับงานบริการลูกค้า
+- ทำ automation และ monitoring ให้ระบบดูแลตัวเองได้มากที่สุด
+
+### เครื่องมือที่ใช้บ่อย
+
+`Proxmox` `Windows Server` `Linux` `Docker` `Node.js` `MySQL` `Nginx` `WireGuard`
+
+### ติดต่อ
+
+📧 <!-- ใส่อีเมลที่ใช้รับงาน -->
